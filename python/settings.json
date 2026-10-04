@@ -1,0 +1,9 @@
+{
+  "port": "COM1",
+  "rate": 10,
+  "theme_mode": "auto",
+  "reverse_rb": true,
+  "show_gpu": true,
+  "auto_connect": true,
+  "colors": null
+}
